@@ -76,11 +76,11 @@ This package is published with the following editions:
 
 #### Authors
 
--   [Benjamin Lupton](https://github.com/balupton)
+-   [Benjamin Lupton](https://balupton.com) — Accelerating collaborative wisdom.
 
 #### Maintainers
 
--   [Benjamin Lupton](https://github.com/balupton)
+-   [Benjamin Lupton](https://balupton.com) — Accelerating collaborative wisdom.
 
 #### Contributors
 
@@ -145,7 +145,7 @@ This package is published with the following editions:
 
 Unless stated otherwise all works are:
 
--   Copyright &copy; [Benjamin Lupton](https://github.com/balupton)
+-   Copyright &copy; [Benjamin Lupton](https://balupton.com)
 
 and licensed under:
 

@@ -1,6 +1,6 @@
 {
   "name": "@bevry/fs-tree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "Artistic-2.0",
   "description": "Read and write to the filesystem as a tree, useful for quick scaffolding and comparisons of filesystem directories",
   "homepage": "https://github.com/bevry/fs-tree",
@@ -74,15 +74,15 @@
       "npmPackageName": "@bevry/fs-tree"
     }
   },
-  "author": "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)",
+  "author": "Benjamin Lupton <b@lupton.cc> (https://balupton.com) (https://github.com/balupton)",
   "authors": [
-    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+    "Benjamin Lupton <b@lupton.cc> (https://balupton.com) (https://github.com/balupton): Accelerating collaborative wisdom."
   ],
   "maintainers": [
-    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+    "Benjamin Lupton <b@lupton.cc> (https://balupton.com) (https://github.com/balupton): Accelerating collaborative wisdom."
   ],
   "contributors": [
-    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+    "Benjamin Lupton <b@lupton.cc> (https://balupton.com) (https://github.com/balupton)"
   ],
   "sponsors": [
     "Andrew Nesbitt (https://nesbitt.io) (https://github.com/andrew): Software engineer and researcher",
